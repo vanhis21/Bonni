@@ -24,6 +24,15 @@ box-shadow: 0 0 10px rgba(7, 214, 17, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.
 background: rgba(255, 255, 255, 0.678);
 color: rgba(0, 35, 122, 0.7);
 }
+h2{
+  color:honeydew;
+  font-size: large;
+  font-family: fantasy;
+}
+html{
+  background-image: url('https://wallpapertag.com/wallpaper/full/5/7/8/316831-best-website-backgrounds-1920x1200-tablet.jpg');
+  background: cov;
+}
 .home{
   text-align: center;
 }
